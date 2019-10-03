@@ -2,3 +2,4 @@
 ethereum/node_modules
 ethereum/package-lock.json
 ethereum/build/
+.DS_Store
